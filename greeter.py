@@ -5,6 +5,6 @@ name = "Larry"
 
 print(name)
 
-print("Hi,", name)
+print("Hi people,", name)
 
 input("\n\nPress the enter key to exit.")
